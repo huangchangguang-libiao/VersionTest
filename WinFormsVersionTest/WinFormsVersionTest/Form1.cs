@@ -12,6 +12,7 @@ namespace WinFormsVersionTest
             Text = $"{ThisAssembly.AssemblyInformationalVersion}";
             Console.WriteLine("hcg");
             Console.WriteLine("hcg");
+            Console.WriteLine("hcg");
         }
     }
 }
